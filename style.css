@@ -1,0 +1,38 @@
+/* Estilo para o cabeçalho h2 */
+h2 {
+    color: blue;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilo para o botão */
+  button {
+    background-color: rgb(16, 225, 225);
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  
+  /* Estilo para o parágrafo */
+  #demo {
+    color: rgb(99, 196, 211);
+    font-size: 18px;
+    font-family: Georgia, serif;
+    margin-top: 20px;
+  }
+
+  body {
+    background-image: url('https://img.freepik.com/fotos-gratis/fundo-futurista-abstrato-com-design-3d_1361-3532.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 850px;
+  }
+  
+  
